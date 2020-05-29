@@ -1,0 +1,19 @@
+body{
+    background-color: #a21b33;
+}
+h1{
+    color: plum; 
+    text-align: center;
+}
+p{
+    color: cornsilk;
+}
+#main-contener{
+    text-align: center; 
+}
+#text-contener{
+text-align: left; color: azure;
+}
+#red-text{
+    color: rgb(245, 229, 229);
+}
