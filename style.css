@@ -5,15 +5,24 @@ h1{
     color: plum; 
     text-align: center;
 }
-p{
-    color: cornsilk;
+
+h1:hover{
+    color: royalblue;
 }
-#main-contener{
+
+.main-contener{
     text-align: center; 
 }
-#text-contener{
+.text-contener{
 text-align: left; color: azure;
 }
-#red-text{
-    color: rgb(245, 229, 229);
+.red-text{
+    color: rgb(240, 33, 33) !important; 
+}
+
+.white-text{
+    color: cornsilk;
+}
+#text{
+    color: rgb(27, 236, 184);
 }
